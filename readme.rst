@@ -335,6 +335,7 @@ How to compile:
 
     $ git clone git://github.com/chikuzen/GenericFilters.git
     $ cd ./GenericFilters/src
+    $ ./autogen.sh
     $ ./configure
     $ make install
 
